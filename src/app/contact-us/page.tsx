@@ -1,4 +1,4 @@
-[]
+
 import styles from "@/app/contact-us/contact-us.module.css"
 
 export default function Contact() {
