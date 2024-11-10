@@ -1,0 +1,68 @@
+.sign{
+    display: flex;
+    justify-content: center;
+    margin-top: 112px;
+    margin-bottom: 70px;
+}
+
+.form{
+    height: 320px;
+    width: 320px;
+    box-sizing: border-box;
+    border-width: 2px;
+    border-radius: 8px;
+    padding-top: 20px;
+    background-color: #e7e5e4;
+}
+
+.form_h1{
+    text-align: center;
+    font-weight: 700;
+}
+
+.sign_input{
+    border-top-right-radius:  8px;
+    border-bottom-right-radius: 8px; 
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-left: 12px;
+    height: 32px;
+    width: 288px;
+}
+
+.form_p{
+    margin-top: 16px;
+    margin-left: 12px;
+    font-weight: 700;
+}
+
+.login{
+    margin-left: 32px;
+    box-sizing: border-box;
+    height: 32px;
+    width: 80px;
+    border-radius: 9999px;
+    background-color: #16a34a;
+    margin-top: 16px;
+    color: #ffffff;
+}
+
+.account {
+    margin-left: 8px;
+    box-sizing: border-box;
+    height: 32px;
+    width: 144px;
+    border-width: 2px;
+    border-radius: 9999px;
+    background-color: #16a34a;
+    color: #ffffff;
+}
+
+@media (max-width: 640px) {
+    .sign{
+        display: flex;
+        justify-content: center;
+        margin-top: 112px;
+        margin-bottom: 110px;
+    }
+}

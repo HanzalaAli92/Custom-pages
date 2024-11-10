@@ -1,0 +1,16 @@
+.footer {
+    margin-top: 64px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #02c75b;
+    color: #ffffff;
+}
+
+/* @media (max-width: 640px) {
+    .footer {
+        margin-top: 64px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }  
+} */

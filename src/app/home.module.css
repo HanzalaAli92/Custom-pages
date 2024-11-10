@@ -1,0 +1,27 @@
+.home{
+    margin-left: 128px;
+    margin-top: 160px;
+    margin-bottom: 176px;
+    font-size: 48px;
+    line-height: 1;
+    font-weight: 700;
+    color: #02c75b;
+}
+
+.home_h1{
+    flex: 1 1 auto;
+}
+
+.home_p{
+    font-size:  24px ;
+    line-height:  32px ;
+    color: white;
+}
+
+@media  (max-width: 640px){
+    .home{
+        margin-left: 15px;
+        margin-top: 110px;
+        margin-bottom: 130px;
+    }
+}

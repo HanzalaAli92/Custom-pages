@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#logo {
+  background-image: url(../../public/back.jpg);
+}
+
+#form {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+  background-image: url(https://img.freepik.com/free-photo/minimalist-composition-natural-plant-monochromatic-background_23-2148945688.jpg?semt=ais_hybrid);
+  background-position: center;
+  background-size: cover;
+
+}

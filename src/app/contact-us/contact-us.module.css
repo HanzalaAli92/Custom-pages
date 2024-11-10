@@ -1,0 +1,27 @@
+.contact{
+    margin-left: 128px;
+    margin-top: 160px;
+    margin-bottom: 176px;
+    font-size: 48px;
+    line-height: 1;
+    font-weight: 700;
+    color: #02c75b;
+}
+
+.contact_h1{
+    flex: 1 1 auto;
+}
+
+.contact_p{
+    font-size:  24px ;
+    line-height:  32px ;
+    color: white;
+}
+
+@media  (max-width: 640px){
+    .contact{
+        margin-left: 15px;
+        margin-top: 90px;
+        margin-bottom: 102px;
+    }
+}
